@@ -1,4 +1,4 @@
-# -McDonald-s-Sales-Analysis-Milestone-Project
+# McDonald-s-Sales-Analysis-Milestone-Project
 Completed a McDonald’s sales analysis project covering revenue trends, order patterns, category performance, and top-selling items.
 This Excel-based project analyzes McDonald’s sales data to understand overall sales performance, order behavior, and time-based demand patterns. The dashboard summarizes key metrics such as $61.6K+ total sales, 570 total orders, and an average of 2 items per order, providing a clear snapshot of business performance. Using Excel features such as Pivot Tables, Pivot Charts, formulas, and slicers, the analysis breaks down sales by product type, day of the week, and hour of the day to identify peak ordering periods and high-performing categories. Hourly analysis highlights demand spikes during specific time windows, while daily and weekly trends help track fluctuations in order volume.
 
